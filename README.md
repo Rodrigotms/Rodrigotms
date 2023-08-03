@@ -1,12 +1,17 @@
+## Oii, sou Rodrigo Marinho
+
+- 🔭 Trabalho como Analista de redes >
+- 🌱 Estudando Python e outras ferramentas para automação voltada para switchs e etc >
+- 📫 E-mail para contato rodrigotms@hotmail.com >
 
 
-<!--
-**Rodrigotms/Rodrigotms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
 
-Here are some ideas to get you started:
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-- 🔭 Trablhando atualmente como Analista de redes
-- 🌱 Estudando Python e outras ferramentas para automação voltada para switchs e e etc
-- 📫 E-mail para contato rodrigotms@hotmail.com
+</div>
 
--->
+  
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigotms&layout=compact)
